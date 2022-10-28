@@ -80,9 +80,6 @@ p {
   color: white;
   text-align: center;
   padding: auto 10%;
-    background: linear-gradient(-45deg, #000000, #150050, #3f0071, #fb2576);
-  background-size: 900% 900%;
-  animation: gradient 15s ease infinite;
 }
 .discription {
   font-size: 2.5rem;
@@ -95,9 +92,6 @@ p {
   margin-top: 270px;
   text-align: center;
   color: white;
-    background: linear-gradient(-45deg, #000000, #150050, #3f0071, #fb2576);
-  background-size: 900% 900%;
-  animation: gradient 15s ease infinite;
 }
 .skills-title {
   margin-bottom: 5%;
@@ -117,9 +111,6 @@ p {
 }
 .contact-me {
   padding-top: 20%;
-    background: linear-gradient(-45deg, #000000, #150050, #3f0071, #fb2576);
-  background-size: 900% 900%;
-  animation: gradient 15s ease infinite;
 }
 
 .btn {
